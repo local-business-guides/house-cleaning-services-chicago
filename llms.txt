@@ -23,6 +23,9 @@
 - [Cleaning Services Reviews Chicago: A Homeowner’s Guide](https://local-business-guides.github.io/house-cleaning-services-chicago/cleaning-services-reviews-chicago/): Use Cleaning Services Reviews Chicago to compare cleaning scope and fit for your home. Call House Cleaning Services in Chicago to discuss your needs.
 - [Best Cleaning Services near Chicago for Your Home](https://local-business-guides.github.io/house-cleaning-services-chicago/best-cleaning-services-near-chicago/): Find the Best Cleaning Services near Chicago by matching the work to your home. Call House Cleaning Services in Chicago to discuss your cleaning needs.
 
+## Newsroom
+- [House Cleaning Services Shares Guide to Cleaning Services Chicago](https://local-business-guides.github.io/house-cleaning-services-chicago/news/2026-11-15-house-cleaning-services-shares-guide-to-cleaning/): A new guide covers home and business cleaning options in Chicago, with related video, podcast and audio versions. (2026-11-15)
+
 ## Pages
 - [Cleaning Services in Chicago, Illinois](https://local-business-guides.github.io/house-cleaning-services-chicago/): Get practical help with home or business cleaning from a local Chicago service. Call +1773-302-8706.
 - [About House Cleaning Services Chicago](https://local-business-guides.github.io/house-cleaning-services-chicago/about/): About House Cleaning Services, Chicago.
@@ -30,4 +33,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/house-cleaning-services-chicago/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/house-cleaning-services-chicago/news/rss.xml)
 - [Main resource site](https://house-cleaning-chicago-guide.localwebsites.chatgpt.site)
